@@ -2,3 +2,5 @@ TA-Lib
 flask
 pandas
 yfinance
+
+# config.py with API and secret key from Alpacas user dash
